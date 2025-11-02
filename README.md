@@ -7,3 +7,8 @@
 ## **One Passed & One Failed**
 <img width="1914" height="595" alt="Screenshot 2025-11-02 140231" src="https://github.com/user-attachments/assets/62c6b463-d18f-40da-89da-f6a45c5d6d28" />
 <img width="1911" height="699" alt="Screenshot 2025-11-02 140655" src="https://github.com/user-attachments/assets/84b37a5a-2051-4014-b7bf-82c356e30128" />
+
+## **Both Test Failed**
+<img width="1914" height="595" alt="Screenshot 2025-11-02 140231" src="https://github.com/user-attachments/assets/7cd06807-ccf8-46cf-895f-dd156c0b6887" />
+<img width="1917" height="569" alt="Screenshot 2025-11-02 141630" src="https://github.com/user-attachments/assets/05c1fe1b-9524-466e-b17f-0005cf68c889" />
+<img width="1913" height="621" alt="Screenshot 2025-11-02 140509" src="https://github.com/user-attachments/assets/fd3e58e2-7133-4a57-8977-ce299428d1f1" />
